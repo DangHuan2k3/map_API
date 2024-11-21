@@ -1,0 +1,662 @@
+[
+  {
+    "placeId": "ChIJUyPtPrQZQjERisogqyABtkY",
+    "name": "GIANT BIKE STORE - HỆ THỐNG PHÂN PHỐI VÀ SỬA CHỮA XE ĐẠP THỂ THAO CHÍNH HÃNG DNGBIKE.COM / ONEBIKE.VN TẠI ĐÀ NẴNG",
+    "address": "42 Đặng Thai Mai, Thạc Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0605607,
+      "lng": 108.2099122
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJUyPtPrQZQjERisogqyABtkY"
+  },
+  {
+    "placeId": "ChIJuXrP6Z4XQjERskE6HdUOnQg",
+    "name": "Dragon 2024 Motorbike Rental (cho thuê xe máy Đà Nẵng)",
+    "address": "30/1a Hà Bổng, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0671174,
+      "lng": 108.2439245
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJuXrP6Z4XQjERskE6HdUOnQg"
+  },
+  {
+    "placeId": "ChIJ_RfQ0P4XQjERpHsq1wx5_6M",
+    "name": "Just Bikes",
+    "address": "Lo 09 An Thượng 33, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0505825,
+      "lng": 108.2458257
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ_RfQ0P4XQjERpHsq1wx5_6M"
+  },
+  {
+    "placeId": "ChIJLVhHcToXQjERzWOrnvz1NqU",
+    "name": "Bee Bike - Bike Tours and Bike Rentals",
+    "address": "48 An Thượng 26, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 50507, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0552471,
+      "lng": 108.2451246
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJLVhHcToXQjERzWOrnvz1NqU"
+  },
+  {
+    "placeId": "ChIJHR2ZW3kZQjERuFKX3DIoi1A",
+    "name": "Xe Đạp Đức Liên",
+    "address": "52 Trần Kế Xương, P, Hải Châu, Đà Nẵng 55000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0672881,
+      "lng": 108.2161825
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJHR2ZW3kZQjERuFKX3DIoi1A"
+  },
+  {
+    "placeId": "ChIJ6-Jm4MLcaTERVkN3XzDpGf8",
+    "name": "Da Nang Motorbike Rental Binh Minh",
+    "address": "36 Tạ Mỹ Duật, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0694679,
+      "lng": 108.2349403
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ6-Jm4MLcaTERVkN3XzDpGf8"
+  },
+  {
+    "placeId": "ChIJmaeFteMZQjERcvbQ2esylU8",
+    "name": "E-Z Bike Rental",
+    "address": "39 Đào Duy Anh, Thạc Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0589102,
+      "lng": 108.2101244
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJmaeFteMZQjERcvbQ2esylU8"
+  },
+  {
+    "placeId": "ChIJpZ2IECcZQjERUX6CKXuXvo0",
+    "name": "TREK BIKE STORE - HỆ THỐNG PHÂN PHỐI VÀ SỮA CHỮA XE ĐẠP CHÍNH HÃNG DNGBIKE.COM / ONEBIKE.VN",
+    "address": "646 Phạm Hùng, Hoà Phước, Hòa Vang, Đà Nẵng 59000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 15.9829636,
+      "lng": 108.2078488
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJpZ2IECcZQjERUX6CKXuXvo0"
+  },
+  {
+    "placeId": "ChIJeerYW0UZQjERUyAFnUWgv_o",
+    "name": "The Motorbike Station Company",
+    "address": "Alley 196/41, Đường, Trần Cao Vân, street, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0733522,
+      "lng": 108.2064253
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJeerYW0UZQjERUyAFnUWgv_o"
+  },
+  {
+    "placeId": "ChIJ80l7FvsZQjERbbELVVWVEkM",
+    "name": "Hệ thống cửa hàng xe đạp Xedap.vn - Chi nhánh 427 ĐBP, Đà Nẵng",
+    "address": "427 Điện Biên Phủ, P, Thanh Khê, Đà Nẵng 50000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0656262,
+      "lng": 108.1885609
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ80l7FvsZQjERbbELVVWVEkM"
+  },
+  {
+    "placeId": "ChIJzzdy7dkXQjER9JMY5Atd_qk",
+    "name": "Cho thuê xe máy Vy Vy.motorbik rental",
+    "address": "66 Lê Thước, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.0769863,
+      "lng": 108.2415224
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJzzdy7dkXQjER9JMY5Atd_qk"
+  },
+  {
+    "placeId": "ChIJ8WNRK4wXQjERN5DLDKxHgiE",
+    "name": "Trùm cho thuê xe máy Đà Nẵng",
+    "address": "30 Tô Hiến Thành, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.063766,
+      "lng": 108.2416188
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ8WNRK4wXQjERN5DLDKxHgiE"
+  },
+  {
+    "placeId": "ChIJK-lxZ76hQTER6phH3zJhW-M",
+    "name": "Thuê xe máy Huế Hidden Land Bikes",
+    "address": "24A/11 Lý Thường Kiệt, Vĩnh Ninh, Huế, Thừa Thiên Huế, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.4626116,
+      "lng": 107.5921554
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJK-lxZ76hQTER6phH3zJhW-M"
+  },
+  {
+    "placeId": "ChIJwXvNrt4ZQjERyxao6roYkaI",
+    "name": "Cho Thuê Xe Máy Đà Nẵng Văn Khoa",
+    "address": "210 Núi Thành, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0447991,
+      "lng": 108.2212765
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJwXvNrt4ZQjERyxao6roYkaI"
+  },
+  {
+    "placeId": "ChIJudEdqEcYQjERDdnHYEJ0QGA",
+    "name": "BIDV",
+    "address": "34/36 Thi Sách, Hòa Thuận Nam, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0533407,
+      "lng": 108.2047064
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJudEdqEcYQjERDdnHYEJ0QGA"
+  },
+  {
+    "placeId": "ChIJhRz4Qz2hQTERd3KyZSMyDvs",
+    "name": "Hue Smile Travel Bike Rental",
+    "address": "1/6 Trần Quang Khải, Phú Hội, Huế, Thừa Thiên Huế 530000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.4671437,
+      "lng": 107.5955037
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJhRz4Qz2hQTERd3KyZSMyDvs"
+  },
+  {
+    "placeId": "ChIJo8COkNgXQjERrISfWKFYscU",
+    "name": "Thuê Xe Tự Lái tại Đà Nẵng - Da Nang Travel Car",
+    "address": "10 Bùi Tá Hán, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0317256,
+      "lng": 108.2455946
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJo8COkNgXQjERrISfWKFYscU"
+  },
+  {
+    "placeId": "ChIJo0UqoLIZQjERM3CsZEdGwjk",
+    "name": "Xe đạp trợ lực điện Việt Nam",
+    "address": "166 Đ. Nguyễn Hoàng, Vĩnh Trung, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0611619,
+      "lng": 108.2136801
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJo0UqoLIZQjERM3CsZEdGwjk"
+  },
+  {
+    "placeId": "ChIJA_RaWPsZQjER4lpYCANml68",
+    "name": "TOAN THANG CYCLES - Chi nhánh Đà Nẵng",
+    "address": "161 Đ. Trần Hưng Đạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng 50411, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 16.0792695,
+      "lng": 108.2291101
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJA_RaWPsZQjER4lpYCANml68"
+  },
+  {
+    "placeId": "ChIJv-t-uqMZQjERAD-hPFCXCHw",
+    "name": "Trạm xe đạp công cộng",
+    "address": "35CR+FX3 Ubnd, Trần Cao Vân, Xuân Hà, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 0,
+    "location": {
+      "lat": 16.0711568,
+      "lng": 108.1924251
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJv-t-uqMZQjERAD-hPFCXCHw"
+  },
+  {
+    "placeId": "ChIJ6-Jm4MLcaTERVkN3XzDpGf8",
+    "name": "Da Nang Motorbike Rental Binh Minh",
+    "address": "36 Tạ Mỹ Duật, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0694679,
+      "lng": 108.2349403
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ6-Jm4MLcaTERVkN3XzDpGf8"
+  },
+  {
+    "placeId": "ChIJ9UcfgrAZQjER0Y9zhxYmUTs",
+    "name": "Son Tra Motorbike Rental",
+    "address": "Ngõ 34/58 Thi Sách, Hòa Thuận Nam, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0527416,
+      "lng": 108.2047595
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ9UcfgrAZQjER0Y9zhxYmUTs"
+  },
+  {
+    "placeId": "ChIJFYfh0R4ZQjERRnOreVlLbDA",
+    "name": "THUÊ XE MÁY UY TÍN BẾN XE ĐÀ NẴNG",
+    "address": "136 Lê Thạch, Hoà An, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0533987,
+      "lng": 108.1727084
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJFYfh0R4ZQjERRnOreVlLbDA"
+  },
+  {
+    "placeId": "ChIJwXvNrt4ZQjERyxao6roYkaI",
+    "name": "Cho Thuê Xe Máy Đà Nẵng Văn Khoa",
+    "address": "210 Núi Thành, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0447991,
+      "lng": 108.2212765
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJwXvNrt4ZQjERyxao6roYkaI"
+  },
+  {
+    "placeId": "ChIJuXrP6Z4XQjERskE6HdUOnQg",
+    "name": "Dragon 2024 Motorbike Rental (cho thuê xe máy Đà Nẵng)",
+    "address": "30/1a Hà Bổng, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0671174,
+      "lng": 108.2439245
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJuXrP6Z4XQjERskE6HdUOnQg"
+  },
+  {
+    "placeId": "ChIJgaCJM8QZQjERAuuyG_jhyK8",
+    "name": "Thuê xe máy Đà Nẵng Gia Khánh",
+    "address": "Ngõ 112/82 Trần Cao Vân, Thanh Bình, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.0747,
+      "lng": 108.2083771
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJgaCJM8QZQjERAuuyG_jhyK8"
+  },
+  {
+    "placeId": "ChIJW9Z-d5AZQjER7ODcKeBhhq8",
+    "name": "E-MOTO Cho thuê xe máy điện Vinfast tại Đà Nẵng",
+    "address": "111 Lê Thanh Nghị, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.03966,
+      "lng": 108.2181435
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJW9Z-d5AZQjER7ODcKeBhhq8"
+  },
+  {
+    "placeId": "ChIJ8cvRC_cRQjEREimqqqQXg_s",
+    "name": "Thuê Xe máy TRANG - 614 LVH.MOTORCYCLE RENTAL",
+    "address": "614 Đ. Lê Văn Hiến, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 02363, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0071171,
+      "lng": 108.2582453
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ8cvRC_cRQjEREimqqqQXg_s"
+  },
+  {
+    "placeId": "ChIJnwRX878XQjERT0GRuxQR-4Y",
+    "name": "MOTORBIKE FOR RENT A. CHÂU (오토바이렌트, cho thuê xe máy Đà Nẵng)",
+    "address": "113 Phan Tứ, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0465273,
+      "lng": 108.2463426
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJnwRX878XQjERT0GRuxQR-4Y"
+  },
+  {
+    "placeId": "ChIJ_bJDeSgZQjER3Em4yQEXKbQ",
+    "name": "Thuê Xe Máy Đà Nẵng Gia Huy",
+    "address": "126/6 Trần Cao Vân, Tam Thuận, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0729513,
+      "lng": 108.2088532
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ_bJDeSgZQjER3Em4yQEXKbQ"
+  },
+  {
+    "placeId": "ChIJk6H62DMZQjERXhMxu3jhZFc",
+    "name": "T-BIKE cho thuê xe máy",
+    "address": "286 Đ. Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng 50000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0543047,
+      "lng": 108.2326335
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJk6H62DMZQjERXhMxu3jhZFc"
+  },
+  {
+    "placeId": "ChIJo3UohIQZQjER2pAK2U_5n9Y",
+    "name": "Thuê xe máy Đà nẵng Minh Long",
+    "address": "133 Dương Trí Trạch, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0721375,
+      "lng": 108.2404254
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJo3UohIQZQjER2pAK2U_5n9Y"
+  },
+  {
+    "placeId": "ChIJfXvSiboZQjERlreHiW2M5Eo",
+    "name": "Cho Thuê Xe Máy Trung Châu Đà Nẵng",
+    "address": "86/19 Thi Sách, Phường Hoà Thuận Tây, Đà Nẵng 550000, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 16.053201,
+      "lng": 108.205053
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJfXvSiboZQjERlreHiW2M5Eo"
+  },
+  {
+    "placeId": "ChIJP9j4QOIZQjERRxNTJOD0eTg",
+    "name": "Vivu Cho Thuê Xe Máy",
+    "address": "32 Trần Văn Giáp, Hoà Cường Bắc, Đà Nẵng, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0382002,
+      "lng": 108.2153253
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJP9j4QOIZQjERRxNTJOD0eTg"
+  },
+  {
+    "placeId": "ChIJd-I_QpgXQjERaQffjn1OXmw",
+    "name": "Cho thuê xe máy Huỳnh Đoan - Motorbike Rental Da Nang",
+    "address": "126 Bà Huyện Thanh Quan, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0446801,
+      "lng": 108.2472223
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJd-I_QpgXQjERaQffjn1OXmw"
+  },
+  {
+    "placeId": "ChIJ1cRvQV0ZQjERfQbKiGNSau8",
+    "name": "Thuê Xe Máy Đà Nẵng Đăng Khoa 2",
+    "address": "773 Nguyễn Tất Thành, Xuân Hà, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.072098,
+      "lng": 108.1970334
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ1cRvQV0ZQjERfQbKiGNSau8"
+  },
+  {
+    "placeId": "ChIJudEdqEcYQjERDdnHYEJ0QGA",
+    "name": "BIDV",
+    "address": "34/36 Thi Sách, Hòa Thuận Nam, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0533407,
+      "lng": 108.2047064
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJudEdqEcYQjERDdnHYEJ0QGA"
+  },
+  {
+    "placeId": "ChIJDfaea10ZQjER3yLmuMTQh6Y",
+    "name": "THUÊ XE MÁY ĐĂNG KHOA",
+    "address": "09 Đào Nguyên Phổ, Thanh Khê Tây, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0732631,
+      "lng": 108.1732219
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJDfaea10ZQjER3yLmuMTQh6Y"
+  },
+  {
+    "placeId": "ChIJVeVWUwkZQjER_l66jE95VXs",
+    "name": "THUÊ XE MÁY GIÁ RẺ ĐĂNG KHOA _ MOTORBIKE RENTAL",
+    "address": "Kiệt 247 Tôn Đức Thắng, Hoà Minh, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0561567,
+      "lng": 108.1714858
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJVeVWUwkZQjER_l66jE95VXs"
+  },
+  {
+    "placeId": "ChIJkQn6BEMXQjERUJ0FvO63D5k",
+    "name": "Cho Thuê Xe Máy Đà Nẵng Bảo Tín",
+    "address": "172/29 Nguyễn Duy Hiệu, An Hải Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0558007,
+      "lng": 108.2421995
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJkQn6BEMXQjERUJ0FvO63D5k"
+  },
+  {
+    "placeId": "ChIJFasdLv8ZQjERBaL67m1dMZ0",
+    "name": "Thuê xe ô tô tự lái Đà Nẵng - Đại Gia Định",
+    "address": "119 Mẹ Nhu, Thanh Khê Tây, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.067349,
+      "lng": 108.1778125
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJFasdLv8ZQjERBaL67m1dMZ0"
+  },
+  {
+    "placeId": "ChIJo8COkNgXQjERrISfWKFYscU",
+    "name": "Thuê Xe Tự Lái tại Đà Nẵng - Da Nang Travel Car",
+    "address": "10 Bùi Tá Hán, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0317256,
+      "lng": 108.2455946
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJo8COkNgXQjERrISfWKFYscU"
+  },
+  {
+    "placeId": "ChIJxa6jx_wZQjERlItPThniOho",
+    "name": "Thuê xe ô tô tự lái tại Đà Nẵng - Hoàng Linh Travel Car",
+    "address": "02 Mỹ An 2, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0491787,
+      "lng": 108.2360722
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJxa6jx_wZQjERlItPThniOho"
+  },
+  {
+    "placeId": "ChIJU_XDcKwZQjERIhmZQ-mSbjc",
+    "name": "DV Cho Thuê Ô Tô Tự Lái - Công Ty TNHH Khoa Chương",
+    "address": "94 Đ. Phạm Văn Nghị, Thạc Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0566184,
+      "lng": 108.2093691
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJU_XDcKwZQjERIhmZQ-mSbjc"
+  },
+  {
+    "placeId": "ChIJi_GcRc4XQjERhbwjMYh8HEY",
+    "name": "Thuê Xe Ôtô Tự Lái Đà Nẵng-Quảng Thuận",
+    "address": "20 An Thượng 39, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0503751,
+      "lng": 108.2442243
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJi_GcRc4XQjERhbwjMYh8HEY"
+  },
+  {
+    "placeId": "ChIJB672NF8ZQjERa8QxtrKwVqQ",
+    "name": "Xe cưới hỏi, du lịch, thuê xe ô tô từ 4 đến 16 chỗ giá rẻ tại Đà nẵng. CTY TNHH TM&DVDL THỦY LÊ",
+    "address": "192 Hoàng Diệu, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0623871,
+      "lng": 108.2174883
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJB672NF8ZQjERa8QxtrKwVqQ"
+  },
+  {
+    "placeId": "ChIJsSHJttwXQjERPvVe17TH0Tk",
+    "name": "Thuê xe du lịch giá rẻ Đà Nẵng",
+    "address": "12 An Thượng 24, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0526833,
+      "lng": 108.2418386
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJsSHJttwXQjERPvVe17TH0Tk"
+  },
+  {
+    "placeId": "ChIJA620nf0YQjER1A80S5zs0xo",
+    "name": "Ba Mien Tourist and Transportation",
+    "address": "City, 34 Đ. Dũng Sĩ Thanh Khê, Street, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.9,
+    "location": {
+      "lat": 16.0684996,
+      "lng": 108.1816154
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJA620nf0YQjER1A80S5zs0xo"
+  },
+  {
+    "placeId": "ChIJZfD4e9YXQjERBYj1y4sWL6w",
+    "name": "Thuê Xe Tự Lái Giá Rẻ Quỳnh Nhi",
+    "address": "185 An D. Vương, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 50507, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0395032,
+      "lng": 108.2396036
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJZfD4e9YXQjERBYj1y4sWL6w"
+  },
+  {
+    "placeId": "ChIJS8m3xDQXQjERsoDz1E9ZjSE",
+    "name": "HOÀNG PHÚ AN Travel - Cho thuê xe tự lái, xe du lịch Đà Nẵng",
+    "address": "31 Mai Thúc Lân, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0510961,
+      "lng": 108.2427187
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJS8m3xDQXQjERsoDz1E9ZjSE"
+  },
+  {
+    "placeId": "ChIJpeN0RicXQjER-4UnuWxgNb0",
+    "name": "Thuê Xe Ô Tô Tự Lái Đà Nẵng - Quỳnh Nhi",
+    "address": "7 Mỹ Đa Đông 11, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.0453306,
+      "lng": 108.2476542
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJpeN0RicXQjER-4UnuWxgNb0"
+  },
+  {
+    "placeId": "ChIJu6AqFKIXQjER5MFSALYRnm0",
+    "name": "Cho thuê xe ô tô tự lái Đà Nẵng VŨ CAR",
+    "address": "34 Đ. Vũ Trọng Hoàng, Hoà An, Cẩm Lệ, Đà Nẵng 10000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0566137,
+      "lng": 108.1768767
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJu6AqFKIXQjER5MFSALYRnm0"
+  },
+  {
+    "placeId": "ChIJDeVxNeopdTERzZmCJal6iRM",
+    "name": "Thuê xe tự lái Đà Nẵng - Toàn Cầu Vàng",
+    "address": "137 Lê Đình Lý, Bình Thuận, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0550836,
+      "lng": 108.2120792
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJDeVxNeopdTERzZmCJal6iRM"
+  },
+  {
+    "placeId": "ChIJm02vHAoXQjERxeTSb1yF9zQ",
+    "name": "Cho Thuê Xe Ô Tô Tự Lái Tại Đà Nẵng",
+    "address": "33 Nguyễn Duy Hiệu, An Hải Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0556898,
+      "lng": 108.2385976
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJm02vHAoXQjERxeTSb1yF9zQ"
+  },
+  {
+    "placeId": "ChIJn01IK1QXQjEReKhMJmVO_Sg",
+    "name": "Dịch Vụ Cho Thuê Xe Du Lịch Đà Nẵng - Luxury Car Travel",
+    "address": "15 Cao Lỗ, Mân Thái, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0914762,
+      "lng": 108.2420961
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJn01IK1QXQjEReKhMJmVO_Sg"
+  },
+  {
+    "placeId": "ChIJodub0KsZQjERpvoJmeOBAJM",
+    "name": "Thuê Xe Đà Nẵng | CTy TNHH HB Travel",
+    "address": "13 Trần Xuân Lê, Hòa Khê, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0612896,
+      "lng": 108.1858736
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJodub0KsZQjERpvoJmeOBAJM"
+  },
+  {
+    "placeId": "ChIJJyg5EM8ZQjERwktqL_GL3YM",
+    "name": "Thuê xe ô tô tự lái Đà Nẵng xanh43 - Car for Rent",
+    "address": "46 Đ. Khuê, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.0487646,
+      "lng": 108.2363103
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJJyg5EM8ZQjERwktqL_GL3YM"
+  },
+  {
+    "placeId": "ChIJc3AkTfKnODERDgYbpXsmP_4",
+    "name": "Xe Cẩu Tải Ở Đà Nẵng - Châu Trâm",
+    "address": "91 Nguyễn Như Đãi, Hoà Thọ Tây, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0180845,
+      "lng": 108.2042238
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJc3AkTfKnODERDgYbpXsmP_4"
+  },
+  {
+    "placeId": "ChIJc5-gGngPQjER7DFiiRkbh6Q",
+    "name": "Danang car Rental With Driver",
+    "address": "19 Mỹ Khê 3, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0611807,
+      "lng": 108.238895
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJc5-gGngPQjER7DFiiRkbh6Q"
+  },
+  {
+    "placeId": "ChIJXbWMMkkXQjER0Auz2LWdsAo",
+    "name": "thuê xe 16 chỗ Đà Nẵng - Hana travel & transport",
+    "address": "22 Nguyễn Thái Bình, Hoà Minh, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0596417,
+      "lng": 108.1740456
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJXbWMMkkXQjER0Auz2LWdsAo"
+  }
+]
