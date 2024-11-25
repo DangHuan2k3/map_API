@@ -1,7 +1,5 @@
 import express from "express";
-import { audio2text } from "../helper/gemini";
-import { promises as fsPromises } from "fs";
-import { downloadAudioFile } from "../helper/audio";
+import { getTranscript } from "../helper/assemblyAi";
 
 const router = express.Router();
 
@@ -12,17 +10,8 @@ router.get("/", async (req, res) => {
     return res.status(400).json({ error: "link query parameter is required" });
   }
 
-  const filename = "downloaded_audio.mp3";
-
   try {
-    const filePath = await downloadAudioFile(link, filename);
-    console.log(`file audio downloaded: ${filePath}`);
-
-    const transcript = await audio2text(filePath);
-
-    await fsPromises.unlink(filePath).catch((err) => {
-      console.error(`cannot delete file: ${filePath}, ${err.message}`);
-    });
+    const transcript = await getTranscript(link as string);
     res.status(200).json({ transcript });
   } catch (error) {
     console.error(`error when handling audio: ${(error as Error).message}`);
