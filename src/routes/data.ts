@@ -1,31 +1,36 @@
-import express from 'express';
-import { db } from '../firebase/config';
-import { json } from 'body-parser';
-import { error } from 'console';
-
-const database = db;
+import express from "express";
+import { db } from "../firebase/config";
+import { json } from "body-parser";
+import { error } from "console";
+import { default as crawler } from "../scripts/getRestaurantsMap";
 
 const router = express.Router();
 
-router.get('/:collection/:document', async (req, res) => {
-	const collection = req.params.collection as string;
-	const document = req.params.document as string;
+router.get("/crawl", async (req, res) => {
+  try {
+    const data = await crawler();
+    console.log(data);
+    res.json(data);
+  } catch (error) {
+    console.error("Error searching places:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
+});
 
-	try {
-		const chatDoc = db.collection(collection).doc(document);
+router.get("/:collection", async (req, res) => {
+  const collection = req.params.collection as string;
 
-		chatDoc.get().then((doc) => {
-			if (doc.exists) {
-				console.log('Document data:', doc.data());
-				res.json(doc.data());
-			} else {
-				console.log('No such document!');
-			}
-		});
-	} catch (error) {
-		console.error('Error searching places:', error);
-		res.status(500).json({ error: 'Internal server error' });
-	}
+  try {
+    const snapshot = await db.collection(collection).get();
+    const data = snapshot.docs.map((doc) => doc.data());
+
+    console.log(data);
+
+    res.json(data);
+  } catch (error) {
+    console.error("Error searching places:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
 });
 
 export default router;

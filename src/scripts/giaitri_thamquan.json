@@ -1,0 +1,662 @@
+[
+  {
+    "placeId": "ChIJK4sVPc0ZQjERdGROWQ8MMg4",
+    "name": "Helio Center",
+    "address": "Tòa nhà Helio, 01 Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0359504,
+      "lng": 108.2242925
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJK4sVPc0ZQjERdGROWQ8MMg4"
+  },
+  {
+    "placeId": "ChIJM355v_EdQjER-Hux_6Kx260",
+    "name": "Khu vui chơi giải trí Dream World",
+    "address": "X4RP+WP8, Hoà Phong, Hòa Vang, Đà Nẵng, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 15.9922559,
+      "lng": 108.1368259
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJM355v_EdQjER-Hux_6Kx260"
+  },
+  {
+    "placeId": "ChIJW-1dJWUXQjERgWLXvVxswLg",
+    "name": "Cocobay Danang",
+    "address": "26XW+VWM, An Thượng 2, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.049684,
+      "lng": 108.2472392
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJW-1dJWUXQjERgWLXvVxswLg"
+  },
+  {
+    "placeId": "ChIJF8yRoecZQjERdDBeBdSRD-Y",
+    "name": "DA NANG DOWNTOWN",
+    "address": "Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.0412139,
+      "lng": 108.2256332
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJF8yRoecZQjERdDBeBdSRD-Y"
+  },
+  {
+    "placeId": "ChIJQWQVKr4ZQjERcafNnRyLelk",
+    "name": "DD WONDERLAND",
+    "address": "78b Quang Trung, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0746815,
+      "lng": 108.2188584
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJQWQVKr4ZQjERcafNnRyLelk"
+  },
+  {
+    "placeId": "ChIJhVIpr1YZQjERBHiRmmjgAWo",
+    "name": "Khu vui chơi giải trí Cung Thiếu Nhi Đà Nẵng",
+    "address": "2A Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.0381439,
+      "lng": 108.2253648
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJhVIpr1YZQjERBHiRmmjgAWo"
+  },
+  {
+    "placeId": "ChIJcfUWSM0bQjERqyE3XkmTzsE",
+    "name": "Khu Vui Chơi Trẻ Em & Hồ Bơi Doreamon Kids Hoà Xuân - Đà Nẵng",
+    "address": "Võ Chí Công, Hoà Xuân, Đà Nẵng, 500000, Vietnam",
+    "rating": 4,
+    "location": {
+      "lat": 16.0009632,
+      "lng": 108.2323684
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJcfUWSM0bQjERqyE3XkmTzsE"
+  },
+  {
+    "placeId": "ChIJn9XXFAAZQjER_QoQjuNetT0",
+    "name": "Khu vui chơi GAME CENTER",
+    "address": "6 Nại Nam, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0348899,
+      "lng": 108.2293931
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJn9XXFAAZQjER_QoQjuNetT0"
+  },
+  {
+    "placeId": "ChIJxyq-IQ0bQjER9tzXX7-uIfI",
+    "name": "KHU VUI CHƠI TRẺ EM KEVIN KIDS - HOÀ CHÂU - ĐÀ NẴNG",
+    "address": "111 Phan Văn Đáng, Hoà Châu, Hòa Vang, Đà Nẵng 550000, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 15.9955376,
+      "lng": 108.1986947
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJxyq-IQ0bQjER9tzXX7-uIfI"
+  },
+  {
+    "placeId": "ChIJ6R3K0vz2QTERRGpzbkKvt4o",
+    "name": "Fantasy Park",
+    "address": "XXWQ+VGJ, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 15.9972041,
+      "lng": 107.988763
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ6R3K0vz2QTERRGpzbkKvt4o"
+  },
+  {
+    "placeId": "ChIJy-kKTbgZQjERvKd_RMrWqQk",
+    "name": "Playtime Lotte Đà Nẵng",
+    "address": "Tầng 5, Lotte Mart Đà Nẵng 6 Nại Nam, Phường Hòa Cường Bắc, Đà Nẵng, 50000, Vietnam",
+    "rating": 5,
+    "location": {
+      "lat": 16.0347076,
+      "lng": 108.2289993
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJy-kKTbgZQjERvKd_RMrWqQk"
+  },
+  {
+    "placeId": "ChIJ5bLjXAAZQjER0X6Md65dLG4",
+    "name": "Khu Vui Chơi Trẻ Em POKEMON Kids - Đà Nẵng",
+    "address": "88 Nguyễn Tri Phương, Chính Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.0620542,
+      "lng": 108.2040235
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ5bLjXAAZQjER0X6Md65dLG4"
+  },
+  {
+    "placeId": "ChIJq8GxGYEZQjER1HUMhpaQ_Ps",
+    "name": "CocoMeo Hòa Xuân - Khu vui chơi trẻ em",
+    "address": "16 Đ. Nguyễn Văn Thông, Hoà Xuân, Cẩm Lệ, Đà Nẵng 10000, Vietnam",
+    "rating": 4.8,
+    "location": {
+      "lat": 16.0207198,
+      "lng": 108.2229698
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJq8GxGYEZQjER1HUMhpaQ_Ps"
+  },
+  {
+    "placeId": "ChIJ4_twIB8YQjERc84AzP5Mqro",
+    "name": "Kid's playground",
+    "address": "36QM+973, Vân Đồn, Nại Hiên Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.0883969,
+      "lng": 108.2331744
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ4_twIB8YQjERc84AzP5Mqro"
+  },
+  {
+    "placeId": "ChIJ1TmX_LgbQjER7qxYzeIq424",
+    "name": "Khu Vui Chơi Trẻ Em & Cafe AD CENTER",
+    "address": "78 Nguyễn Phước Tần, Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+    "rating": 4.1,
+    "location": {
+      "lat": 16.0180847,
+      "lng": 108.1979791
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ1TmX_LgbQjER7qxYzeIq424"
+  },
+  {
+    "placeId": "ChIJz19tK6AQQjER8l15iTxlrP0",
+    "name": "Khu Vui chơi Giải trí Bình Kỳ",
+    "address": "X6VR+W5F, Đ. Bình Kỳ, Hoà Quý, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 3.6,
+    "location": {
+      "lat": 15.9948201,
+      "lng": 108.2404268
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJz19tK6AQQjER8l15iTxlrP0"
+  },
+  {
+    "placeId": "ChIJcUZPX5UZQjERXq-PtiL38vc",
+    "name": "Khu Vui Chơi Trẻ Em Minions Kids Hải Châu",
+    "address": "14 - 16 Đ. 30/4, Hoà Cường Bắc, Hải Châu, Đà Nẵng 55000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0408765,
+      "lng": 108.2202925
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJcUZPX5UZQjERXq-PtiL38vc"
+  },
+  {
+    "placeId": "ChIJ_yXWYAAZQjERAHhMtH-g9SM",
+    "name": "NICKY KIDS - Khu Vui Chơi Dành Cho Bé",
+    "address": "363C+XWG, Đ. 2 Tháng 9, Hòa Thuận Đông, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 3.5,
+    "location": {
+      "lat": 16.0549155,
+      "lng": 108.2223623
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ_yXWYAAZQjERAHhMtH-g9SM"
+  },
+  {
+    "placeId": "ChIJaabTis4ZQjERGBX8qBxyiIE",
+    "name": "tiNiWorld",
+    "address": "910 Ngô Quyền, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 3.3,
+    "location": {
+      "lat": 16.0716847,
+      "lng": 108.2298343
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJaabTis4ZQjERGBX8qBxyiIE"
+  },
+  {
+    "placeId": "ChIJH0dEp2MZQjERkXkX1kI84DI",
+    "name": "RIO Children's 46 Điện Biên Phủ - Đà Nẵng",
+    "address": "46 Điện Biên Phủ, Chính Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.066015,
+      "lng": 108.193694
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJH0dEp2MZQjERkXkX1kI84DI"
+  },
+  {
+    "placeId": "ChIJ2y5L4dQNQjERxeSLc68fbrw",
+    "name": "The Marble Mountains",
+    "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0034756,
+      "lng": 108.2645803
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ2y5L4dQNQjERxeSLc68fbrw"
+  },
+  {
+    "placeId": "ChIJF8yRoecZQjERdDBeBdSRD-Y",
+    "name": "DA NANG DOWNTOWN",
+    "address": "Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.0412139,
+      "lng": 108.2256332
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJF8yRoecZQjERdDBeBdSRD-Y"
+  },
+  {
+    "placeId": "ChIJLWoAs80ZQjERLKHDYD-ZymI",
+    "name": "Da Nang Museum of Cham Sculpture",
+    "address": "Số 02 Đ. 2 Tháng 9, Bình Hiên, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.2,
+    "location": {
+      "lat": 16.0603007,
+      "lng": 108.2232677
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJLWoAs80ZQjERLKHDYD-ZymI"
+  },
+  {
+    "placeId": "ChIJyWFmArX3QTERon6tUT6re4Q",
+    "name": "Ba Na Hills",
+    "address": "Thôn An Sơn, Hòa Vang, Da Nang, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 15.9951364,
+      "lng": 107.9961392
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJyWFmArX3QTERon6tUT6re4Q"
+  },
+  {
+    "placeId": "ChIJL1GKWJYZQjERLrEGqlK2kwQ",
+    "name": "Dragon Bridge",
+    "address": "29 Cầu Rồng, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 16.061161,
+      "lng": 108.2295715
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJL1GKWJYZQjERLrEGqlK2kwQ"
+  },
+  {
+    "placeId": "ChIJwbfPdZX3QTERj8sw7f5uZPA",
+    "name": "Hot Springs Park - Công viên Suối khoáng nóng Núi Thần Tài Đà Nẵng",
+    "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng 550000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 15.9678512,
+      "lng": 108.0198053
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJwbfPdZX3QTERj8sw7f5uZPA"
+  },
+  {
+    "placeId": "ChIJBQHuNG49QjER7Mb_Y2I64mk",
+    "name": "Ban Co Peak",
+    "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 16.1189365,
+      "lng": 108.2719826
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJBQHuNG49QjER7Mb_Y2I64mk"
+  },
+  {
+    "placeId": "ChIJkatEeMwZQjERnAUKgmrbNgQ",
+    "name": "Da Nang Fresco Village",
+    "address": "366C+72J, Kiệt 75 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4,
+    "location": {
+      "lat": 16.0607217,
+      "lng": 108.2200138
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJkatEeMwZQjERnAUKgmrbNgQ"
+  },
+  {
+    "placeId": "ChIJ9fqsdOcZQjERZcIMEHw3HtY",
+    "name": "Sun Wheel",
+    "address": "1 Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.0401624,
+      "lng": 108.2285171
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ9fqsdOcZQjERZcIMEHw3HtY"
+  },
+  {
+    "placeId": "ChIJMbB7TFAXQjERmbXMjW1wHss",
+    "name": "Du lịch Đà nẵng Hội an",
+    "address": "7 Lê Văn Thứ, Mân Thái, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.08523,
+      "lng": 108.244297
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJMbB7TFAXQjERmbXMjW1wHss"
+  },
+  {
+    "placeId": "ChIJh0Ls-NsXQjER3jo2SAmipQA",
+    "name": "Green Lake Danang",
+    "address": "37X9+F68, Hồ Xanh, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0986692,
+      "lng": 108.2680636
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJh0Ls-NsXQjER3jo2SAmipQA"
+  },
+  {
+    "placeId": "ChIJ3cVClWEZQjER_gdKDyG2Q30",
+    "name": "CauTinhYeu",
+    "address": "Đ. Trần Hưng Đạo, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.0632119,
+      "lng": 108.2295914
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ3cVClWEZQjER_gdKDyG2Q30"
+  },
+  {
+    "placeId": "ChIJ4QBQgowZQjERs200POAfAZs",
+    "name": "Dragon Carp Fountain",
+    "address": "Đ. Trần Hưng Đạo, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.06291,
+      "lng": 108.229815
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ4QBQgowZQjERs200POAfAZs"
+  },
+  {
+    "placeId": "ChIJI4oSjdE9QjERlXMiA630YKs",
+    "name": "Hải đăng Tiên Sa",
+    "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.1396875,
+      "lng": 108.3220625
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJI4oSjdE9QjERlXMiA630YKs"
+  },
+  {
+    "placeId": "ChIJj9PFGT33QTERDbUKRxFsdmM",
+    "name": "Golden Bridge",
+    "address": "Hoà Phú, Hòa Vang, Da Nang, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 15.994892,
+      "lng": 107.9965831
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJj9PFGT33QTERDbUKRxFsdmM"
+  },
+  {
+    "placeId": "ChIJW0KcgfI9QjERJpkPfjssyfo",
+    "name": "Ghềnh Bàng",
+    "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Vietnam, Đà Nẵng, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.1124336,
+      "lng": 108.3116322
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJW0KcgfI9QjERJpkPfjssyfo"
+  },
+  {
+    "placeId": "ChIJcVJkUPcXQjERsA8_dfySw5E",
+    "name": "3D Museum Art in paradise Da Nang",
+    "address": "Lô 10, Trần Nhân Tông, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0954282,
+      "lng": 108.2431088
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJcVJkUPcXQjERsA8_dfySw5E"
+  },
+  {
+    "placeId": "ChIJB7NiEoP2QTERm1eL-dZuTKY",
+    "name": "Giếng Trời",
+    "address": "Hòa Ninh, Hòa Vang, Da Nang, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0347599,
+      "lng": 107.9909156
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJB7NiEoP2QTERm1eL-dZuTKY"
+  },
+  {
+    "placeId": "ChIJEymIkTYYQjERWO-pgjkKGMk",
+    "name": "Đà Nẵng Museum",
+    "address": "24 Trần Phú, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4,
+    "location": {
+      "lat": 16.0764462,
+      "lng": 108.2214867
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJEymIkTYYQjERWO-pgjkKGMk"
+  },
+  {
+    "placeId": "ChIJ_XkaoQs-QjER_IUTHqI3gI8",
+    "name": "Mũi Nghê",
+    "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.1186244,
+      "lng": 108.3368715
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ_XkaoQs-QjER_IUTHqI3gI8"
+  },
+  {
+    "placeId": "ChIJ2y5L4dQNQjERxeSLc68fbrw",
+    "name": "The Marble Mountains",
+    "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0034756,
+      "lng": 108.2645803
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ2y5L4dQNQjERxeSLc68fbrw"
+  },
+  {
+    "placeId": "ChIJLWoAs80ZQjERLKHDYD-ZymI",
+    "name": "Da Nang Museum of Cham Sculpture",
+    "address": "Số 02 Đ. 2 Tháng 9, Bình Hiên, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.2,
+    "location": {
+      "lat": 16.0603007,
+      "lng": 108.2232677
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJLWoAs80ZQjERLKHDYD-ZymI"
+  },
+  {
+    "placeId": "ChIJF8yRoecZQjERdDBeBdSRD-Y",
+    "name": "DA NANG DOWNTOWN",
+    "address": "Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.0412139,
+      "lng": 108.2256332
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJF8yRoecZQjERdDBeBdSRD-Y"
+  },
+  {
+    "placeId": "ChIJBQHuNG49QjER7Mb_Y2I64mk",
+    "name": "Ban Co Peak",
+    "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 16.1189365,
+      "lng": 108.2719826
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJBQHuNG49QjER7Mb_Y2I64mk"
+  },
+  {
+    "placeId": "ChIJ_XkaoQs-QjER_IUTHqI3gI8",
+    "name": "Mũi Nghê",
+    "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 16.1186244,
+      "lng": 108.3368715
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ_XkaoQs-QjER_IUTHqI3gI8"
+  },
+  {
+    "placeId": "ChIJW0KcgfI9QjERJpkPfjssyfo",
+    "name": "Ghềnh Bàng",
+    "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Vietnam, Đà Nẵng, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.1124336,
+      "lng": 108.3116322
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJW0KcgfI9QjERJpkPfjssyfo"
+  },
+  {
+    "placeId": "ChIJ3cVClWEZQjER_gdKDyG2Q30",
+    "name": "CauTinhYeu",
+    "address": "Đ. Trần Hưng Đạo, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.0632119,
+      "lng": 108.2295914
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ3cVClWEZQjER_gdKDyG2Q30"
+  },
+  {
+    "placeId": "ChIJI4oSjdE9QjERlXMiA630YKs",
+    "name": "Hải đăng Tiên Sa",
+    "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.1396875,
+      "lng": 108.3220625
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJI4oSjdE9QjERlXMiA630YKs"
+  },
+  {
+    "placeId": "ChIJ4QBQgowZQjERs200POAfAZs",
+    "name": "Dragon Carp Fountain",
+    "address": "Đ. Trần Hưng Đạo, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "rating": 4.5,
+    "location": {
+      "lat": 16.06291,
+      "lng": 108.229815
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ4QBQgowZQjERs200POAfAZs"
+  },
+  {
+    "placeId": "ChIJgaLldI0ZQjEReQCfThP_6CQ",
+    "name": "Wonder Park - Wyndham Danang Golden Bay Hotel",
+    "address": "01 Lê Văn Duyệt, Nại Hiên Đông, Sơn Trà, Đà Nẵng 590000, Vietnam",
+    "rating": 4.4,
+    "location": {
+      "lat": 16.0988248,
+      "lng": 108.224412
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJgaLldI0ZQjEReQCfThP_6CQ"
+  },
+  {
+    "placeId": "ChIJEymIkTYYQjERWO-pgjkKGMk",
+    "name": "Đà Nẵng Museum",
+    "address": "24 Trần Phú, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4,
+    "location": {
+      "lat": 16.0764462,
+      "lng": 108.2214867
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJEymIkTYYQjERWO-pgjkKGMk"
+  },
+  {
+    "placeId": "ChIJcVJkUPcXQjERsA8_dfySw5E",
+    "name": "3D Museum Art in paradise Da Nang",
+    "address": "Lô 10, Trần Nhân Tông, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0954282,
+      "lng": 108.2431088
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJcVJkUPcXQjERsA8_dfySw5E"
+  },
+  {
+    "placeId": "ChIJB7NiEoP2QTERm1eL-dZuTKY",
+    "name": "Giếng Trời",
+    "address": "Hòa Ninh, Hòa Vang, Da Nang, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0347599,
+      "lng": 107.9909156
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJB7NiEoP2QTERm1eL-dZuTKY"
+  },
+  {
+    "placeId": "ChIJwbfPdZX3QTERj8sw7f5uZPA",
+    "name": "Hot Springs Park - Công viên Suối khoáng nóng Núi Thần Tài Đà Nẵng",
+    "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng 550000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 15.9678512,
+      "lng": 108.0198053
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJwbfPdZX3QTERj8sw7f5uZPA"
+  },
+  {
+    "placeId": "ChIJ-cf9B7wQQjERutUzeynzw8w",
+    "name": "Quan The Am Pagoda",
+    "address": "48 Sư Vạn Hạnh, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "rating": 4.7,
+    "location": {
+      "lat": 15.9987263,
+      "lng": 108.2551473
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ-cf9B7wQQjERutUzeynzw8w"
+  },
+  {
+    "placeId": "ChIJ4w7694IXQjERrFXucqKL--o",
+    "name": "My Khe Beach",
+    "address": "My Khe Beach, Da Nang 550000, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 16.0616944,
+      "lng": 108.2469346
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJ4w7694IXQjERrFXucqKL--o"
+  },
+  {
+    "placeId": "ChIJyWFmArX3QTERon6tUT6re4Q",
+    "name": "Ba Na Hills",
+    "address": "Thôn An Sơn, Hòa Vang, Da Nang, Vietnam",
+    "rating": 4.6,
+    "location": {
+      "lat": 15.9951364,
+      "lng": 107.9961392
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJyWFmArX3QTERon6tUT6re4Q"
+  },
+  {
+    "placeId": "ChIJaa7lANcXQjERmT3kgV5U7uA",
+    "name": "Dong Dinh Art Museum",
+    "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.1,
+    "location": {
+      "lat": 16.1011538,
+      "lng": 108.2753793
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJaa7lANcXQjERmT3kgV5U7uA"
+  },
+  {
+    "placeId": "ChIJe8ah9rsZQjER6VQTZMzcGTw",
+    "name": "Bến Du Thuyền Sông Hàn Đà Nẵng",
+    "address": "26 Bạch Đằng, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0791411,
+      "lng": 108.2242785
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJe8ah9rsZQjER6VQTZMzcGTw"
+  },
+  {
+    "placeId": "ChIJh0Ls-NsXQjER3jo2SAmipQA",
+    "name": "Green Lake Danang",
+    "address": "37X9+F68, Hồ Xanh, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "rating": 4.3,
+    "location": {
+      "lat": 16.0986692,
+      "lng": 108.2680636
+    },
+    "googleMapsLink": "https://www.google.com/maps/place/?q=place_id:ChIJh0Ls-NsXQjER3jo2SAmipQA"
+  }
+]
